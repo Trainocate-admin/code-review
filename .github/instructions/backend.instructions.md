@@ -10,3 +10,5 @@ applyTo: "backend/**/*,*.py"
 - Ensure all APIs are explained in the documentaenable-editing-announcements
 
 <!-- 나는 바보다 주님이 필요함 -->
+<!-- 주님이 필요해 -->
+
