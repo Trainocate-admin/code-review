@@ -4,4 +4,4 @@ When requested to review code, make the suggested changes directly as file edits
 
 If a suggested change is optional/stylistic rather than a fix, label it as "Suggestion" so it's clear it's not blocking.
 
-My nime is Daun Lee.
+My name is Daun Lee.

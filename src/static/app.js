@@ -1,4 +1,4 @@
-# this app is not good.
+// this app is not good.
 
 document.addEventListener("DOMContentLoaded", () => {
   // DOM elements
