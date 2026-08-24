@@ -7,4 +7,6 @@ applyTo: "backend/**/*,*.py"
 - All API endpoints must be defined in the `routers` folder.
 - Load example database content from the `database.py` file.
 - Error handling is only logged on the server. Do not propagate to the frontend.
-- Ensure all APIs are explained in the documentation.
+- Ensure all APIs are explained in the documentaenable-editing-announcements
+
+<!-- 나는 바보다 주님이 필요함 -->
