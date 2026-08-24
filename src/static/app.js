@@ -1,3 +1,5 @@
+# this app is not good.
+
 document.addEventListener("DOMContentLoaded", () => {
   // DOM elements
   const activitiesList = document.getElementById("activities-list");
